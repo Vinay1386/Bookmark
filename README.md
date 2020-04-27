@@ -3,4 +3,4 @@
 
 ## Index
 - [Torrent](https://github.com/RakeshKengale/Bookmark/blob/master/Torrent) [2]
-- [Bug Bounty](https://github.com/RakeshKengale/Bookmark/blob/master/Bug Bounty) [2]
+- [Bug Bounty](https://github.com/RakeshKengale/Bookmark/blob/master/BugBounty) [2]
