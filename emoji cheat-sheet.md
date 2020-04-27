@@ -1,12 +1,12 @@
 
 ## People
 
-    :bowtie:
-    :smile:
-    :simple_smile:
-    :laughing:
-    :blush:
-    :smiley:
+:bowtie:
+:smile:
+:simple_smile:
+:laughing:
+:blush:
+:smiley:
     :relaxed:
     :smirk:
     :heart_eyes:
