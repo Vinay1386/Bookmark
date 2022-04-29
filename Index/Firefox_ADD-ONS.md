@@ -1,6 +1,29 @@
 # Firefox ADD-ONS
 
-1. [AdBlock for Firefox by AdBlock](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox) - Block all advertisements on all web pages.
-2. [Adblock Plus by Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Block annoying ads on sites like Facebook, YouTube and all other websites.
-3. [Empty Cache Button by mvm](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button) - Download Empty Cache Button for Firefox. Cache clearing made easy. One click.
-4.
+* [AdBlock for Firefox by AdBlock](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox) - Block all advertisements on all web pages.
+* [Adblock Plus by Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Block annoying ads on sites like Facebook, YouTube and all other websites.
+* [Adblock for Youtube™](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube-tm/) - Popular Adblock for Youtube™ Extension: Removes the video ads from Youtube™. Thanks to all AdBlock supporters!
+* [Empty Cache Button by mvm](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button) - Download Empty Cache Button for Firefox. Cache clearing made easy. One click.
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) - FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities. For a simpler tool and less advanced configuration options, please use FoxyProxy Basic.
+* [Cookie Manager](https://addons.mozilla.org/en-US/firefox/addon/a-cookie-manager/) - An efficient cookie manager. View, edit, delete and search for cookies. Supports private mode and Firefox mobile too. Designed for privacy and security aware users. Enable this extension to open the cookie manager, disable it if you are done.
+* [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/) - An addon to manage cookies (view, search, create, edit, remove, backup, restore, protect from deletion and much more). Firefox 57+ is supported.
+* [HackBar Quantum](https://addons.mozilla.org/en-US/firefox/addon/hackbar-quantum/?src=recommended) - HackBar Quantum is a sidebar that assists you with web application security testing, it's aim is to help make those tedious tasks a little bit easier. This add-on is a predecessor to the original HackBar that is not compatible with Firefox Quantum.
+* [HackBar V2](https://addons.mozilla.org/en-US/firefox/addon/hackbar-free/) - [No License, FOREVER FREE] A HackBar for new firefox (Firefox Quantum). This addon is written in webextension and alternatives to the XUL version of original Hackbar.
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.
+* [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/) - Identify technologies on websites
+* [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/) - BuiltWith is a web site profiler tool. Upon looking up a page, BuiltWith returns a list all the technologies in use on that page that it can find.
+* [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.
+* [anonymoX](https://addons.mozilla.org/en-US/firefox/addon/anonymox/) - Easy anonymous web browsing. – Change your IP-Address and country – Visit blocked or censored websites. – Delete cookies, show your public ip, and more We provide the proxy servers, no external proxies or other programs required
+* [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) - Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
+* [Disconnect by Disconnect - Stop Tracking(Disconnect)](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - Make the web faster, more private, and more secure.
+* [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - Customize the way a web page displays or behaves, by using small bits of JavaScript.
+* [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.
+* [Easy XSS](https://addons.mozilla.org/en-US/firefox/addon/easy-xss/) - XSS made Easy. Easy XSS makes it possible for you to text XSS with just 2 mouse clicks.
+* [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?src=search) - The Web Developer extension adds various web developer tools to the browser.
+* [Tamper Data for FF Quantum](https://addons.mozilla.org/en-US/firefox/addon/tamper-data-for-ff-quantum/) - - Monitor live requests - Edit headers on live requests - Cancel live requests - Redirect live requests Click the blue cloud in the toolbar to start tampering. When you're done, click it again to stop.
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.
+* [Page Hacker](https://addons.mozilla.org/en-US/firefox/addon/page-hacker/) - Edit in Firefox the page displayed in any tab, with formatting tools.
+* [Recon](https://addons.mozilla.org/en-US/firefox/addon/recon/) - This web extension is designed to help you search throughout the web in an extremely versatile manner where all you need to do is select a word and then right click to unveil all the searching options that has been provided by this web extension.
+* [Tamper Chrome (Chrome Extension)](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb?hl=en) - Allows the user to modify requests as they happen.
+* [Tamper Dev (Chrome Extension)](https://chrome.google.com/webstore/detail/tamper-dev/mdemppnhjflbejfbnlddahjbpdbeejnn) - Allows the user to modify requests as they happen.
+
