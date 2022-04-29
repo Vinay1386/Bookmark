@@ -4,6 +4,6 @@
 ## Index
 - [Torrent](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Torrent.md) [2]
 - [Bug Bounty](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Bug_Bounty.md) [2]
-- [Firefox ADD-ONS (Security)](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Firefox_ADD-ONS.md) [10]
+- [Firefox ADD-ONS (Security)](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Firefox_ADD-ONS.md) [26]
 - [Hacking](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Hacking.md) [2]
 
