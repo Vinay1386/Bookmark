@@ -1,4 +1,4 @@
-# Firefox ADD-ONS
+# Firefox ADD-ONS (Security)
 
 * [AdBlock for Firefox by AdBlock](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox) - Block all advertisements on all web pages.
 * [Adblock Plus by Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Block annoying ads on sites like Facebook, YouTube and all other websites.
