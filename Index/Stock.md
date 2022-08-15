@@ -1,6 +1,7 @@
 # Stock Market
 
 - [NSEIndia.com](https://www.nseindia.com/) - NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com
+- [NSE Option Chain](https://www.nseindia.com/option-chain) - Option Chain - NSE India
 - [Moneycontrol.com](https://www.moneycontrol.com/) - Business News LIVE Today: Latest Business News, Share Market News, Economy & Finance News | Moneycontrol
 - [Tickertape.in](https://www.tickertape.in/) - Use the best financial tools to analyse stocks and market sentiments with all information about Indian stocks, ETFs and indices to research better and invest smarter.
 - [Finology.in](https://www.finology.in/) - Best Fintech Platform for Learning Finance and Investing
