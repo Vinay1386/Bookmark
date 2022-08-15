@@ -26,4 +26,9 @@
 * [Recon](https://addons.mozilla.org/en-US/firefox/addon/recon/) - This web extension is designed to help you search throughout the web in an extremely versatile manner where all you need to do is select a word and then right click to unveil all the searching options that has been provided by this web extension.
 * [Tamper Chrome (Chrome Extension)](https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb?hl=en) - Allows the user to modify requests as they happen.
 * [Tamper Dev (Chrome Extension)](https://chrome.google.com/webstore/detail/tamper-dev/mdemppnhjflbejfbnlddahjbpdbeejnn) - Allows the user to modify requests as they happen.
+* [WhatFont (Chrome Extension)](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - The easiest way to identify fonts on web pages.
+* [Volume Master (Chrome Extension)](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke?hl=en) - Up to 600% volume boost, The simplest and most reliable volume booster
+* [Project Naptha (Chrome Extension)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Highlight, copy, edit, and translate text from any image on the web.
+* [Similarweb (Chrome Extension)](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Traffic Rank & Website Analysis - See website traffic and key metrics for any website, including engagement rate, traffic ranking, keyword ranking and traffic source.
+* [Dark Reader (Chrome Extension)](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en) - Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
 
