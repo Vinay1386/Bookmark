@@ -1,6 +1,6 @@
 > **[Home](https://github.com/RakeshKengale/Bookmark)  /  Firefox ADD-ONS (Security)**
 # Firefox ADD-ONS (Security)
-
+ 
 * [AdBlock for Firefox by AdBlock](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox) - Block all advertisements on all web pages.
 * [Adblock Plus by Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Block annoying ads on sites like Facebook, YouTube and all other websites.
 * [Adblock for Youtube™](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube-tm/) - Popular Adblock for Youtube™ Extension: Removes the video ads from Youtube™. Thanks to all AdBlock supporters!
