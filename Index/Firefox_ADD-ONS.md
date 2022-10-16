@@ -32,4 +32,4 @@
 * [Project Naptha (Chrome Extension)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Highlight, copy, edit, and translate text from any image on the web.
 * [Similarweb (Chrome Extension)](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Traffic Rank & Website Analysis - See website traffic and key metrics for any website, including engagement rate, traffic ranking, keyword ranking and traffic source.
 * [Dark Reader (Chrome Extension)](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en) - Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
-
+ 
