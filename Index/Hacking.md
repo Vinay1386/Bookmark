@@ -9,4 +9,4 @@
 
 - __Other__
   - [Mindmaps](https://www.amanhardikar.com/mindmaps.html) - Information Security related Mind Maps
-  - [BrowserPlugins](https://www.amanhardikar.com/mindmaps/BrowserPlugins.html) - Userfull browser plugins for penetration testing / Web application security testing
+  - [BrowserPlugins](https://www.amanhardikar.com/mindmaps/BrowserPlugins.html) - Userfull browser plugins for penetration testing / Web application security testing.
