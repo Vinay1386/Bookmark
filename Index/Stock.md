@@ -9,5 +9,5 @@
 - [Screener.in](https://www.screener.in/) - Stock Screener and fundamental analysis tool for Indian stocks - Screener
 - [Topstockresearch.com](https://www.topstockresearch.com/) - TSR is Indias leading Technical Stock Screener, Fundamental Screener, F&O Screener, Pattern screener, Stock Strength Analyser with interactive charts
 - [Chartink.com](https://chartink.com/) - Live Technical Analysis, Charts, Screener Research & Price
-- [Tradingtick.com](https://tradingtick.com/) - TradingTick - Options Trading made easy
+- [Tradingtick.com](https://tradingtick.com/) - TradingTick - Options Trading made easy.
 - [Tradingview.com](https://in.tradingview.com/) - Where the world charts, chats and trades markets. We're a supercharged super-charting platform and social network for traders and investors. Free to sign up.
