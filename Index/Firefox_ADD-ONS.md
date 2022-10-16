@@ -15,10 +15,10 @@
 * [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/) - BuiltWith is a web site profiler tool. Upon looking up a page, BuiltWith returns a list all the technologies in use on that page that it can find.
 * [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.
 * [anonymoX](https://addons.mozilla.org/en-US/firefox/addon/anonymox/) - Easy anonymous web browsing. – Change your IP-Address and country – Visit blocked or censored websites. – Delete cookies, show your public ip, and more We provide the proxy servers, no external proxies or other programs required
-* [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) - Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...
+* [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) - Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more.
 * [Disconnect by Disconnect - Stop Tracking(Disconnect)](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - Make the web faster, more private, and more secure.
 * [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - Customize the way a web page displays or behaves, by using small bits of JavaScript.
-* [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.
+* [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want..
 * [Easy XSS](https://addons.mozilla.org/en-US/firefox/addon/easy-xss/) - XSS made Easy. Easy XSS makes it possible for you to text XSS with just 2 mouse clicks.
 * [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/?src=search) - The Web Developer extension adds various web developer tools to the browser.
 * [Tamper Data for FF Quantum](https://addons.mozilla.org/en-US/firefox/addon/tamper-data-for-ff-quantum/) - - Monitor live requests - Edit headers on live requests - Cancel live requests - Redirect live requests Click the blue cloud in the toolbar to start tampering. When you're done, click it again to stop.
@@ -32,4 +32,4 @@
 * [Project Naptha (Chrome Extension)](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Highlight, copy, edit, and translate text from any image on the web.
 * [Similarweb (Chrome Extension)](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) - Traffic Rank & Website Analysis - See website traffic and key metrics for any website, including engagement rate, traffic ranking, keyword ranking and traffic source.
 * [Dark Reader (Chrome Extension)](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en) - Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
-
+ 
