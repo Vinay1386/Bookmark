@@ -5,4 +5,4 @@
 - [Z-Library - articles](https://booksc.org/) - Z-Library - articles  - Part of Z-Library project. The world's largest scientific articles store.
 - [Library Genesis](https://libgen.is/) - Library Genesis (Alternative [libgen.rs](http://libgen.rs/), [libgen.st](http://libgen.st/), [libgen.rocks](https://libgen.rocks/).)
 - [Open Library](https://openlibrary.org/) - Open Library
-- [PDF Drive](https://www.pdfdrive.com/) - PDF Drive
+- [PDF Drive](https://www.pdfdrive.com/) - PDF Drive.
